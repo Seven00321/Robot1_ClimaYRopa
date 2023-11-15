@@ -12,6 +12,8 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "ropaLluvia&Sequence_2",
+        "sugerenciaClima&Sequence_2",
         "clima&Sequence_2",
         "temperatura&Sequence_2",
         "nombreDeCiudad&Sequence_2"
